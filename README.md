@@ -7,25 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/@rahmatycs" target="blank"><img src="https://img.shields.io/twitter/follow/@rahmatycs?logo=twitter&style=for-the-badge" alt="@rahmatycs" /></a> </p>
 
-- 🔭 I’m currently working on Jami University [ExchangeApp](www.echangeapp.af)
+- 🔭 I’m currently working on My Saas App
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [www.rahmaty.dev](www.rahmaty.dev)
-
-- 📝 I regularly write articles on [www.medium.com](www.medium.com)
 
 - 💬 Ask me about **React,Next,Express,TypeScript**
 
 - 📫 How to reach me **nazirahmadrahmaty1@gmail.com**
 
-- 📄 Know about my experiences [www.rahmaty.dev/resume](www.rahmaty.dev/resume)
-
-- ⚡ Fun fact **Hamaster**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **Coding):**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

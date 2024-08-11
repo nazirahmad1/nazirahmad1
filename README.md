@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 👨‍💻 I'm available on [Telegram:@Rahmaty20)
+- 👨‍💻 I'm available on [Telegram:@Rahmaty20)]
 
 - 💬 Ask me about **React,Next,Express,TypeScript**
 

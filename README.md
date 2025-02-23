@@ -33,3 +33,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazirahmad1&show_icons=true&locale=en" alt="nazirahmad1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmad1&" alt="nazirahmad1" /></p>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Ahmad+Rahmaty;Welcome+to+My+Profile!;Happy+Coding!+🚀" alt="Typing SVG" />
+</p>
+

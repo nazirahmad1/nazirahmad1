@@ -45,8 +45,8 @@
 
 ### 📫 Contact
 
-- ✉️ Email: [youremail@example.com]
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- ✉️ Email: [ahmad.rahmaty.2020@gmail.com]
+- 🌐 Portfolio: [https://nazirahmad.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---

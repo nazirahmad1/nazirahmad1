@@ -10,11 +10,19 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmadrahmaty/ahmadrahmaty/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 ### 💼 About Me
 
 - 🔧 Skilled in **React**, **Next.js**, **NestJS**, **Express.js**, **Node.js**, **Laravel**, **Tailwind CSS**, **MySQL**, **MongoDB**
 - 🌐 I build modern, responsive web applications with clean UI/UX
-- 🤝 Open to freelance opportunities and collaborative projects
+- 🤝 Open to freelance opportunities and collaborations
 - 🎓 Graduated with honors in Computer Science from Herat University
 
 ---

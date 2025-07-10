@@ -12,7 +12,7 @@
 
 ### 💼 About Me
 
-- 🔧 Skilled in **React**, **Next.js**, **NestJS**, **Express.js**, **Node.js**, **Laravel**, **Tailwind CSS**, **MySQL**
+- 🔧 Skilled in **React**, **Next.js**, **NestJS**, **Express.js**, **Node.js**, **Laravel**, **Tailwind CSS**, **MySQL**, **MongoDB**
 - 🌐 I build modern, responsive web applications with clean UI/UX
 - 🤝 Open to freelance opportunities and collaborative projects
 - 🎓 Graduated with honors in Computer Science from Herat University
@@ -29,8 +29,10 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-F72C1F?logo=laravel&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
 ---
 
 ### 📫 Contact

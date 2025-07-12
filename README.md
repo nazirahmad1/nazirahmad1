@@ -1,3 +1,5 @@
+<!-- OR: If the gif is in your repo -->
+<img src="./coding-man.gif" alt="My Animation" width="100%" />
 <h1 align="center">Hi, I'm Ahmad Rahmaty 👋</h1>
 
 <p align="center">

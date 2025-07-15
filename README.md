@@ -14,8 +14,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake Animation
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmadrahmaty/ahmadrahmaty/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>

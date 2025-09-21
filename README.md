@@ -16,7 +16,4 @@
 
 ---
 
-### 📫 Contact
 
-- ✉️ Email: [ahmad.rahmaty.2020@gmail.com](mailto:ahmad.rahmaty.2020@gmail.com)
-- 🌐 Portfolio: [https://nazirahmad.vercel.app](https://nazirahmad.vercel.app)

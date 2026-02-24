@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Ahmad Rahmaty 👋</h1>
 
 <p align="center">
-  🚀 Full Stack Web Developer | 🧑‍💻 Freelancer | 🇦🇫 Based in Afghanistan  
+  🚀 Full Stack Web Developer | 🧑‍💻 Freelancer | 
 </p>
 
 <p align="center">

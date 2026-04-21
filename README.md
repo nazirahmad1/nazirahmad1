@@ -2,7 +2,7 @@
   <img src="./coding-man.gif" alt="My Animation" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Ahmad Rahmaty 👋</h1>
+<h1 align="center">Hi, I'm N.Ahmad Rahmaty 👋</h1>
 
 <p align="center">
   🚀 Full Stack Web Developer | 🧑‍💻 Freelancer | 

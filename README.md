@@ -8,15 +8,15 @@
 
 <br/><br/>
 
-<a href="https://github.com/nazirahmadrahmaty">
-  <img src="https://komarev.com/ghpvc/?username=nazirahmadrahmaty&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge&labelColor=0D2818"/>
+<a href="https://github.com/nazirahmad1">
+  <img src="https://komarev.com/ghpvc/?username=nazirahmad1&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge&labelColor=0D2818"/>
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D2818"/></a>
 <a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-Follow-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0D2818"/></a>
-<a href="mailto:nazirahmadrahmaty1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-69F0AE?style=for-the-badge&logo=gmail&logoColor=0D2818&labelColor=0D2818"/></a>
+<a href="mailto:nazirahmad11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-69F0AE?style=for-the-badge&logo=gmail&logoColor=0D2818&labelColor=0D2818"/></a>
 
 </div>
 
@@ -102,7 +102,7 @@ Scalable • Maintainable
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazirahmadrahmaty&layout=compact&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&text_color=DADADA&langs_count=8"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazirahmad1&layout=compact&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&text_color=DADADA&langs_count=8"/>
 
 <sub>Computed live from actual code in my public repositories.</sub>
 
@@ -262,27 +262,27 @@ Building modern digital travel experiences.
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=nazirahmadrahmaty&show_icons=true&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&icon_color=69F0AE&text_color=DADADA&rank_icon=github"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=nazirahmad1&show_icons=true&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&icon_color=69F0AE&text_color=DADADA&rank_icon=github"/>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmadrahmaty&theme=algolia&hide_border=true&background=0A1F14&ring=00C853&fire=69F0AE&currStreakLabel=00E676"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmad1&theme=algolia&hide_border=true&background=0A1F14&ring=00C853&fire=69F0AE&currStreakLabel=00E676"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nazirahmadrahmaty&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nazirahmad1&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirahmadrahmaty&bg_color=0A1F14&color=69F0AE&line=00E676&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirahmad1&bg_color=0A1F14&color=69F0AE&line=00E676&point=FFFFFF&area=true&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazirahmadrahmaty&theme=algolia"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazirahmad1&theme=algolia"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nazirahmadrahmaty/nazirahmadrahmaty/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/nazirahmad1/nazirahmad1/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -309,7 +309,7 @@ I'm always interested in discussing:
 
 <a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Nazir%20Ahmad%20Rahmaty-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D2818"/></a>
 <a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-@nazirrahmaty-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0D2818"/></a>
-<a href="mailto:nazirahmadrahmaty1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-69F0AE?style=for-the-badge&logo=gmail&logoColor=0D2818&labelColor=0D2818"/></a>
+<a href="mailto:nazirahmad11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-69F0AE?style=for-the-badge&logo=gmail&logoColor=0D2818&labelColor=0D2818"/></a>
 
 </div>
 

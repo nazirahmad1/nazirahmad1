@@ -24,92 +24,6 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
-<h2 align="center">👋 About Me</h2>
-
-<table align="center">
-<tr>
-<td>
-
-```yaml
-name:        Nazir Ahmad Rahmaty
-role:        Full-Stack JavaScript Developer
-
-passionate_about:
-  - Building scalable, production-ready applications
-  - Clean architecture & maintainable code
-  - Modern web experiences
-  - Backend systems & API design
-
-currently_building:
-  - "Froshgah_Man — Market Management System"
-
-currently_learning:
-  - NestJS
-  - Next.js (App Router)
-  - System Design
-  - Scalable Backend Architecture
-
-mindset: "Learn → Build → Improve → Repeat"
-```
-
-</td>
-</tr>
-</table>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
-
-<h2 align="center">🎯 Current Mission</h2>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="33%">
-
-### 🛒 Building
-**Froshgah_Man**
-Market Management System
-<sub>Inventory • Sales • Reports • Dashboard</sub>
-
-</td>
-<td align="center" width="33%">
-
-### 📚 Learning
-**Backend Engineering**
-NestJS • System Design
-<sub>Scalable Architecture</sub>
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 Goal
-**Better Engineering**
-Scalable • Maintainable
-<sub>Production-Ready Apps</sub>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-> *"Great software is not only about writing code —*
-> *it's about designing solutions that can grow."*
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
-
-<h2 align="center">📊 Most Used Languages</h2>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazirahmad1&layout=compact&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&text_color=DADADA&langs_count=8"/>
-
-<sub>Computed live from actual code in my public repositories.</sub>
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
-
 <h2 align="center">⚡ Technology Universe</h2>
 
 <div align="center">
@@ -258,28 +172,6 @@ Building modern digital travel experiences.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=nazirahmad1&show_icons=true&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&icon_color=00C853&text_color=DADADA&rank_icon=github"/>
-
-<br/>
-
-<!--  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmad1&theme=algolia&hide_border=true&background=0A1F14&ring=00C853&fire=00C853&currStreakLabel=00E676"/> -->
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nazirahmad1&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirahmad1&bg_color=0A1F14&color=00C853&line=00E676&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header) 
-
 <h2 align="center">💭 Developer Quote</h2>
 
 <div align="center">
@@ -293,11 +185,6 @@ Building modern digital travel experiences.
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
-
-I'm always interested in discussing:
-✨ Full-Stack Development &nbsp;•&nbsp; ✨ Modern Web Apps &nbsp;•&nbsp; ✨ Backend Architecture &nbsp;•&nbsp; ✨ Open Source &nbsp;•&nbsp; ✨ New Tech Ideas
-
-<br/><br/>
 
 <a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Nazir%20Ahmad%20Rahmaty-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F14"/></a>
 <a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-@nazirrahmaty-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0A1F14"/></a>
@@ -319,12 +206,6 @@ I'm always interested in discussing:
 │                                            │
 └────────────────────────────────────────────┘
 ```
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1200&color=00E676&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Code.+Learn.+Create.+Repeat."/>
 
 </div>
 

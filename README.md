@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A1F14,35:145C34,100:0A1F14&text=Nazir%20Ahmad%20Rahmaty&fontColor=69F0AE&fontSize=58&fontAlignY=35&desc=Full-Stack%20JavaScript%20Developer%20%E2%80%A2%20Building%20Scalable%20Systems&descAlignY=55&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A1F14,35:0A1F14,100:0A1F14&text=Nazir%20Ahmad%20Rahmaty&fontColor=00C853&fontSize=58&fontAlignY=35&desc=Full-Stack%20JavaScript%20Developer%20%E2%80%A2%20Building%20Scalable%20Systems&descAlignY=55&descSize=18&animation=fadeIn"/>
 
 <br/>
 
@@ -9,20 +9,20 @@
 <br/><br/>
 
 <a href="https://github.com/nazirahmad1">
-  <img src="https://komarev.com/ghpvc/?username=nazirahmad1&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge&labelColor=0D2818"/>
+  <img src="https://komarev.com/ghpvc/?username=nazirahmad1&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge&labelColor=0A1F14"/>
 </a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D2818"/></a>
-<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-Follow-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0D2818"/></a>
-<a href="mailto:nazirahmad11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-69F0AE?style=for-the-badge&logo=gmail&logoColor=0D2818&labelColor=0D2818"/></a>
+<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F14"/></a>
+<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-Follow-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0A1F14"/></a>
+<a href="mailto:nazirahmad11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=0A1F14&labelColor=0A1F14"/></a>
 
 </div>
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
 <h2 align="center">👋 About Me</h2>
 
@@ -56,7 +56,7 @@ mindset: "Learn → Build → Improve → Repeat"
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
 <h2 align="center">🎯 Current Mission</h2>
 
@@ -96,7 +96,7 @@ Scalable • Maintainable
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
 <h2 align="center">📊 Most Used Languages</h2>
 
@@ -108,7 +108,7 @@ Scalable • Maintainable
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
 <h2 align="center">⚡ Technology Universe</h2>
 
@@ -152,7 +152,7 @@ Postman · Vercel
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
 <h2 align="center">🗺️ Learning Roadmap</h2>
 
@@ -185,7 +185,7 @@ Postman · Vercel
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -256,17 +256,17 @@ Building modern digital travel experiences.
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=nazirahmad1&show_icons=true&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&icon_color=69F0AE&text_color=DADADA&rank_icon=github"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=nazirahmad1&show_icons=true&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&icon_color=00C853&text_color=DADADA&rank_icon=github"/>
 
 <br/>
 
-<!--  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmad1&theme=algolia&hide_border=true&background=0A1F14&ring=00C853&fire=69F0AE&currStreakLabel=00E676"/> -->
+<!--  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmad1&theme=algolia&hide_border=true&background=0A1F14&ring=00C853&fire=00C853&currStreakLabel=00E676"/> -->
 
 <br/><br/>
 
@@ -274,19 +274,11 @@ Building modern digital travel experiences.
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirahmad1&bg_color=0A1F14&color=69F0AE&line=00E676&point=FFFFFF&area=true&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazirahmad1&theme=algolia"/>
-
-<br/>
-
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirahmad1&bg_color=0A1F14&color=00C853&line=00E676&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header) 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header) 
 
 <h2 align="center">💭 Developer Quote</h2>
 
@@ -296,7 +288,7 @@ Building modern digital travel experiences.
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -307,9 +299,9 @@ I'm always interested in discussing:
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Nazir%20Ahmad%20Rahmaty-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D2818"/></a>
-<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-@nazirrahmaty-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0D2818"/></a>
-<a href="mailto:nazirahmad11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-69F0AE?style=for-the-badge&logo=gmail&logoColor=0D2818&labelColor=0D2818"/></a>
+<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Nazir%20Ahmad%20Rahmaty-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F14"/></a>
+<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-@nazirrahmaty-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0A1F14"/></a>
+<a href="mailto:nazirahmad11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=0A1F14&labelColor=0A1F14"/></a>
 
 </div>
 
@@ -336,7 +328,7 @@ I'm always interested in discussing:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0A1F14,50:145C34,100:0A1F14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0A1F14,50:0A1F14,100:0A1F14"/>
 
 <div align="center">
 Made with 💜 by <b>Nazir Ahmad Rahmaty</b>

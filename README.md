@@ -1,156 +1,193 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=220&section=header&text=Nazir%20Ahmad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B26,50:3B4261,100:7AA2F7&text=Nazir%20Ahmad%20Rahmaty&fontColor=C0CAF5&fontSize=52&fontAlignY=38&desc=Full-Stack%20JavaScript%20Developer&descAlignY=58&animation=fadeIn"/>
 
-<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="mailto:nazirahmadrahmaty1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&lines=Full-Stack+JavaScript+Developer;Building+Modern+Web+Applications;Next.js+%7C+NestJS+%7C+TypeScript;Always+Learning+Something+New"/>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+apps;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Currently+working+on+a+Market+Management+System" />
+<p>
+<a href="https://komarev.com/ghpvc/?username=nazirahmadrahmaty&style=for-the-badge&color=7aa2f7">
+<img src="https://komarev.com/ghpvc/?username=nazirahmadrahmaty&style=for-the-badge&color=7aa2f7"/>
+</a>
+</p>
 
 </div>
 
-<br>
+---
 
-## 💫 About Me
+# 👋 About Me
 
-I'm a full-stack developer who enjoys turning complex problems into clean, maintainable, and high-performance solutions — from database design to polished, responsive interfaces.
+I'm **Nazir Ahmad Rahmaty**, a **Full-Stack JavaScript Developer** passionate about building scalable, modern, and user-focused web applications.
 
-- 🔭 **Currently building:** Froshgah_Man, a full supermarket management system
-- 🌱 **Currently learning:** NestJS, Next.js, and scalable backend architecture
-- 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js
-- 🎯 **Goal:** writing clean, testable, production-ready code
+I enjoy transforming ideas into production-ready software using modern JavaScript technologies while continuously improving my backend architecture and system design skills.
 
-<br>
+### 🚀 Current Focus
 
-## 🚀 Featured Projects
+- 🛒 Building **Froshgah_Man** (Market Management System)
+- ⚡ Learning **NestJS**
+- ⚡ Mastering **Next.js**
+- 🏗 Studying **System Design**
+- ☁ Exploring **Scalable Backend Architecture**
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,redux,tailwind,prisma,postgres,mongodb,mysql,docker,git,github,postman,vercel&theme=dark"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🛒 [Froshgah_Man](#)
-Full-stack supermarket management system — inventory, sales & reporting with role-based access.
+### 🛒 Froshgah_Man
 
-`Next.js` `NestJS` `PostgreSQL` `Prisma`
+Modern Market Management System
 
-</td>
-<td width="50%" valign="top">
+- Inventory
+- Sales
+- Customers
+- Dashboard
+- Reporting
 
-### 💻 [Logvera](https://logvera.vercel.app/)
-Client-facing platform for an ICT solutions provider.
-
-`React` `Node.js` `Express` `MongoDB`
-
-**[🔗 Live Demo](https://logvera.vercel.app/)**
+**Status:** 🚧 In Progress
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🦷 [Labkhand](https://labkhand.vercel.app/)
-Dental clinic system — appointments, patient records & staff workflows.
+<td width="50%">
 
-`React` `Node.js` `MySQL` `JWT`
+### 📊 Logvera
 
-**[🔗 Live Demo](https://labkhand.vercel.app/)**
+Analytics Dashboard
 
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ [Digikala Clone](http://digikala.af/)
-E-commerce app with product catalog, cart & checkout flow.
-
-`React` `Redux` `Node.js` `MongoDB`
-
-**[🔗 Live Demo](http://digikala.af/)**
+🔗 https://logvera.vercel.app
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🚌 [Jam-Safar](https://www.jaamsafar.com/)
-Bus ticket booking platform — route search, seat selection, reservations.
+### 😊 Labkhand
 
-`React` `TypeScript` `TailwindCSS`
+Modern Web Platform
 
-**[🔗 Live Demo](https://www.jaamsafar.com/)**
+🔗 https://labkhand.vercel.app
 
 </td>
-<td width="50%" valign="top">
+
+<td>
+
+### 🛍 Digikala Clone
+
+E-Commerce Platform
+
+🔗 http://digikala.af
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### ✈️ JamSafar
+
+Travel Booking Platform
+
+🔗 https://www.jaamsafar.com
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## 🛠️ Tech Stack
+# 📈 GitHub Analytics
 
 <div align="center">
 
-**Languages**
-<br>
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nazirahmadrahmaty&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend**
-<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**Databases**
-<br>
-![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Tools**
-<br>
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazirahmadrahmaty&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
-
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nazirahmad1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazirahmad1&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmadrahmaty&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+---
+
+# 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=nazirahmad1&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=nazirahmadrahmaty&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
 </div>
 
-<br>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0077B5&height=120&section=footer" />
+# 📊 Contribution Graph
 
 <div align="center">
 
-**[LinkedIn](https://linkedin.com/in/nazirahmad1) · [X](https://x.com/nazirrahmaty) · [Email](mailto:nazirahmadrahmaty1@gmail.com)**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirahmadrahmaty&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nazirahmadrahmaty/nazirahmadrahmaty/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/nazirahmad1">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://x.com/nazirrahmaty">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="mailto:nazirahmadrahmaty1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"Code is not just about making things work — it's about building solutions that last."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:1A1B26,50:3B4261,100:7AA2F7"/>
 
 </div>

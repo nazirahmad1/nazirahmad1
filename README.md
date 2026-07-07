@@ -266,7 +266,7 @@ Building modern digital travel experiences.
 
 <br/>
 
-//replace in here
+<!--  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmad1&theme=algolia&hide_border=true&background=0A1F14&ring=00C853&fire=69F0AE&currStreakLabel=00E676"/> -->
 
 <br/><br/>
 
@@ -286,7 +286,7 @@ Building modern digital travel experiences.
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
+//![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">💭 Developer Quote</h2>
 

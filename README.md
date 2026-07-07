@@ -1,28 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0C29,35:302B63,100:24243e&text=Nazir%20Ahmad%20Rahmaty&fontColor=E0AAFF&fontSize=58&fontAlignY=35&desc=Full-Stack%20JavaScript%20Developer%20%E2%80%A2%20Building%20Scalable%20Systems&descAlignY=55&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A1F14,35:145C34,100:0A1F14&text=Nazir%20Ahmad%20Rahmaty&fontColor=69F0AE&fontSize=58&fontAlignY=35&desc=Full-Stack%20JavaScript%20Developer%20%E2%80%A2%20Building%20Scalable%20Systems&descAlignY=55&descSize=18&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=1200&color=C77DFF&center=true&vCenter=true&width=920&lines=Full-Stack+JavaScript+Developer;Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Designing+Systems+That+Scale;Currently+Building+Froshgah_Man;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=1200&color=00E676&center=true&vCenter=true&width=920&lines=Full-Stack+JavaScript+Developer;Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Designing+Systems+That+Scale;Currently+Building+Froshgah_Man;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat"/>
 
 <br/><br/>
 
 <a href="https://github.com/nazirahmadrahmaty">
-  <img src="https://komarev.com/ghpvc/?username=nazirahmadrahmaty&label=PROFILE%20VIEWS&color=9D4EDD&style=for-the-badge&labelColor=240046"/>
+  <img src="https://komarev.com/ghpvc/?username=nazirahmadrahmaty&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge&labelColor=0D2818"/>
 </a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=240046"/></a>
-<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-Follow-C77DFF?style=for-the-badge&logo=x&logoColor=white&labelColor=240046"/></a>
-<a href="mailto:nazirahmadrahmaty1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-E0AAFF?style=for-the-badge&logo=gmail&logoColor=240046&labelColor=240046"/></a>
+<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D2818"/></a>
+<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-Follow-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0D2818"/></a>
+<a href="mailto:nazirahmadrahmaty1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-69F0AE?style=for-the-badge&logo=gmail&logoColor=0D2818&labelColor=0D2818"/></a>
 
 </div>
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:9D4EDD&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">👋 About Me</h2>
 
@@ -56,7 +56,7 @@ mindset: "Learn → Build → Improve → Repeat"
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:9D4EDD&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">🎯 Current Mission</h2>
 
@@ -96,27 +96,27 @@ Scalable • Maintainable
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:9D4EDD&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">📊 Skill Focus</h2>
 
 <div align="center">
 
 **Frontend Development**
-![](https://progress-bar.xyz/90?title=&color=9D4EDD&width=400)
+![](https://progress-bar.xyz/90?title=&color=00C853&width=400)
 
 **Backend Development**
-![](https://progress-bar.xyz/80?title=&color=9D4EDD&width=400)
+![](https://progress-bar.xyz/80?title=&color=00C853&width=400)
 
 **System Design**
-![](https://progress-bar.xyz/60?title=&color=9D4EDD&width=400)
+![](https://progress-bar.xyz/60?title=&color=00C853&width=400)
 
 **Cloud & Scalability**
-![](https://progress-bar.xyz/50?title=&color=9D4EDD&width=400)
+![](https://progress-bar.xyz/50?title=&color=00C853&width=400)
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:9D4EDD&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">⚡ Technology Universe</h2>
 
@@ -160,7 +160,7 @@ Postman · Vercel
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:9D4EDD&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">🗺️ Learning Roadmap</h2>
 
@@ -193,7 +193,7 @@ Postman · Vercel
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:9D4EDD&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -264,30 +264,30 @@ Building modern digital travel experiences.
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:9D4EDD&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazirahmadrahmaty&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=E0AAFF&text_color=DADADA&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazirahmadrahmaty&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=DADADA"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazirahmadrahmaty&show_icons=true&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&icon_color=69F0AE&text_color=DADADA&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazirahmadrahmaty&layout=compact&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&text_color=DADADA"/>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmadrahmaty&theme=radical&hide_border=true&background=0D0221&ring=9D4EDD&fire=E0AAFF&currStreakLabel=C77DFF"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmadrahmaty&theme=algolia&hide_border=true&background=0A1F14&ring=00C853&fire=69F0AE&currStreakLabel=00E676"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nazirahmadrahmaty&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nazirahmadrahmaty&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirahmadrahmaty&bg_color=0D0221&color=E0AAFF&line=C77DFF&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazirahmadrahmaty&bg_color=0A1F14&color=69F0AE&line=00E676&point=FFFFFF&area=true&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazirahmadrahmaty&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazirahmadrahmaty&theme=algolia"/>
 
 <br/>
 
@@ -295,17 +295,17 @@ Building modern digital travel experiences.
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:9D4EDD&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">💭 Developer Quote</h2>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:240046,100:9D4EDD&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -316,9 +316,9 @@ I'm always interested in discussing:
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Nazir%20Ahmad%20Rahmaty-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=240046"/></a>
-<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-@nazirrahmaty-C77DFF?style=for-the-badge&logo=x&logoColor=white&labelColor=240046"/></a>
-<a href="mailto:nazirahmadrahmaty1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-E0AAFF?style=for-the-badge&logo=gmail&logoColor=240046&labelColor=240046"/></a>
+<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Nazir%20Ahmad%20Rahmaty-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D2818"/></a>
+<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-@nazirrahmaty-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0D2818"/></a>
+<a href="mailto:nazirahmadrahmaty1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-69F0AE?style=for-the-badge&logo=gmail&logoColor=0D2818&labelColor=0D2818"/></a>
 
 </div>
 
@@ -341,11 +341,11 @@ I'm always interested in discussing:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Code.+Learn.+Create.+Repeat."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1200&color=00E676&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Code.+Learn.+Create.+Repeat."/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:24243e,50:302B63,100:0F0C29"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0A1F14,50:145C34,100:0A1F14"/>
 
 <div align="center">
 Made with 💜 by <b>Nazir Ahmad Rahmaty</b>

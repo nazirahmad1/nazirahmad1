@@ -198,7 +198,6 @@ Building modern digital travel experiences.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0A1F14,50:0A1F14,100:0A1F14"/>
 
 <div align="center">
 Made with 💜 by <b>Nazir Ahmad Rahmaty</b>

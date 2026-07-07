@@ -307,7 +307,9 @@ I'm always interested in discussing:
 
 <br/><br/>
 
-// replace the links
+<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Nazir%20Ahmad%20Rahmaty-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D2818"/></a>
+
+<a href="mailto:nazirahmad11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-69F0AE?style=for-the-badge&logo=gmail&logoColor=0D2818&labelColor=0D2818"/></a>
 
 </div>
 

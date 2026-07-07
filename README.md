@@ -1,18 +1,5 @@
 <div align="center">
 
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/nazirahmad1"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F14"/></a>
-<a href="https://x.com/nazirrahmaty"><img src="https://img.shields.io/badge/X-Follow-00E676?style=for-the-badge&logo=x&logoColor=white&labelColor=0A1F14"/></a>
-<a href="mailto:nazirahmad11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=0A1F14&labelColor=0A1F14"/></a>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
-
 <h2 align="center">⚡ Technology Universe</h2>
 
 <div align="center">

@@ -1,10 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A1F14,35:0A1F14,100:0A1F14&text=Nazir%20Ahmad%20Rahmaty&fontColor=00C853&fontSize=58&fontAlignY=35&desc=Full-Stack%20JavaScript%20Developer%20%E2%80%A2%20Building%20Scalable%20Systems&descAlignY=55&descSize=18&animation=fadeIn"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=1200&color=00E676&center=true&vCenter=true&width=920&lines=Full-Stack+JavaScript+Developer;Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Designing+Systems+That+Scale;Currently+Building+Froshgah_Man;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat"/>
 
 <br/><br/>
 

@@ -98,21 +98,13 @@ Scalable • Maintainable
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:00C853&height=3&section=header)
 
-<h2 align="center">📊 Skill Focus</h2>
+<h2 align="center">📊 Most Used Languages</h2>
 
 <div align="center">
 
-**Frontend Development**
-![](https://progress-bar.xyz/90?title=&color=00C853&width=400)
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazirahmadrahmaty&layout=compact&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&text_color=DADADA&langs_count=8"/>
 
-**Backend Development**
-![](https://progress-bar.xyz/80?title=&color=00C853&width=400)
-
-**System Design**
-![](https://progress-bar.xyz/60?title=&color=00C853&width=400)
-
-**Cloud & Scalability**
-![](https://progress-bar.xyz/50?title=&color=00C853&width=400)
+<sub>Computed live from actual code in my public repositories.</sub>
 
 </div>
 
@@ -270,8 +262,7 @@ Building modern digital travel experiences.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazirahmadrahmaty&show_icons=true&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&icon_color=69F0AE&text_color=DADADA&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazirahmadrahmaty&layout=compact&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&text_color=DADADA"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=nazirahmadrahmaty&show_icons=true&theme=algolia&hide_border=true&bg_color=0A1F14&title_color=00E676&icon_color=69F0AE&text_color=DADADA&rank_icon=github"/>
 
 <br/>
 

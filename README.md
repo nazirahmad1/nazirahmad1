@@ -266,7 +266,7 @@ Building modern digital travel experiences.
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmad1&theme=algolia&hide_border=true&background=0A1F14&ring=00C853&fire=69F0AE&currStreakLabel=00E676"/>
+//<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazirahmad1&theme=algolia&hide_border=true&background=0A1F14&ring=00C853&fire=69F0AE&currStreakLabel=00E676"/>
 
 <br/><br/>
 

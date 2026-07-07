@@ -183,21 +183,6 @@ Building modern digital travel experiences.
 
 <br/>
 
-<div align="center">
-
-```
-┌────────────────────────────────────────────┐
-│                                            │
-│   Developer : Nazir Ahmad Rahmaty          │
-│   Role      : Full-Stack Developer         │
-│   Stack     : JavaScript Ecosystem         │
-│   Status    : Available for Collaboration  │
-│                                            │
-└────────────────────────────────────────────┘
-```
-
-</div>
-
 
 <div align="center">
 Made with 💜 by <b>Nazir Ahmad Rahmaty</b>

@@ -88,64 +88,6 @@ Postman · Vercel
 
 Products • Inventory • Sales • Customers • Reports
 
-`Next.js` `NestJS` `Prisma` `PostgreSQL`
-
-**Status:** 🚧 Active Development
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Logvera
-**Analytics Platform**
-
-Modern dashboard experience with clean UI.
-
-🔗 [logvera.vercel.app](https://logvera.vercel.app)
-
-`React` `Next.js` `Tailwind CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 😊 Labkhand
-**Modern Web Platform**
-
-Beautiful UX focused on simplicity.
-
-🔗 [labkhand.vercel.app](https://labkhand.vercel.app)
-
-`Next.js` `React` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍 Digikala Clone
-**E-Commerce Platform**
-
-Inspired by modern shopping experiences.
-
-🔗 [digikala.af](http://digikala.af)
-
-`React` `Node.js` `Database Integration`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### ✈️ JamSafar
-**Travel Booking Platform**
-
-🔗 [jaamsafar.com](https://www.jaamsafar.com)
-
-Building modern digital travel experiences.
-
-</td>
-</tr>
-</table>
-
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
 <h2 align="center">💭 Developer Quote</h2>

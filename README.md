@@ -8,30 +8,6 @@
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🎨 Frontend
-JavaScript · TypeScript · React
-Next.js · Redux · Tailwind CSS
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### ⚙️ Backend
-Node.js · NestJS
-Express.js · Prisma ORM
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🗄 Database
-PostgreSQL · MongoDB · MySQL
-
-</td>
 <td width="50%" valign="top" align="center">
 
 ### 🛠 Tools & DevOps

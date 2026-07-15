@@ -53,19 +53,6 @@ Postman · Vercel
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Froshgah_Man
-**Market Management System**
-
-Products • Inventory • Sales • Customers • Reports
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A1F14,100:00C853&height=3&section=header)
-
 <h2 align="center">💭 Developer Quote</h2>
 
 <div align="center">

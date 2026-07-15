@@ -63,5 +63,5 @@ Postman · Vercel
 
 
 <div align="center">
-Made with 💜 by <b>Nazir Ahmad Rahmaty</b>
+Made with 💜 by <b>N.Ahmad Rahmaty</b>
 </div>

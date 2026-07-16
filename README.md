@@ -3,6 +3,7 @@
 <h2 align="center">⚡ Technology Universe</h2>
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgres,mongodb,mysql,docker,git,github,postman,vercel&theme=dark&perline=9"/>
 
 
 </div>

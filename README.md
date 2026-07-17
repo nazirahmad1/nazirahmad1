@@ -29,6 +29,3 @@ Postman · Vercel
 </div>
 
 
-<div align="center">
-Made with 💜 by <b>N.Ahmad Rahmaty</b>
-</div>
